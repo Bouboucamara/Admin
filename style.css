@@ -11,7 +11,7 @@ body{
     /* overflow-x: hidden; */
 }
 .box{
-    border: 6px solid white;
+    border: 6px solid black;
     transition: 0.25s ease;
     background: black;
     padding: 10px;
